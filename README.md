@@ -13,5 +13,4 @@ I am a game developer.
 * **Tools**: Git, VS Code
 
 ### 📫 Connect with me
-* [Twitter / X](https://twitter.com/あなたのID)
-* [Qiita / Zenn](リンク)
+* [Twitter / X](https://x.com/youkinCom)
