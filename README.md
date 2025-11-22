@@ -1,9 +1,9 @@
-## Hi there! 👋 私は [あなたの名前] です
+## Hi there! 👋 My name is Yohei Yaoi.Please call me Youkin!
 
-大学生エンジニアとして活動しています。
+I am a game developer.
 
 ### 🌟 About Me
-* 🏫 現在、大学で情報工学を専攻しています。
+* 🏫 Keio SFC University 
 * 💻 **Game Development** と **Web Front-end** に興味があります。
 * 🌱 現在は **Unity** と **React** を勉強中です！
 
