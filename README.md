@@ -23,3 +23,7 @@
 * 🐦 **X (Twitter):** [@youkinCom](https://twitter.com/youkinCom)
 * 📧 **Email:** [yopi.games.tokyo@gmail.com](mailto:yopi.games.tokyo@gmail.com)
 * 🎨 **Portfolio:** [Check It Out](https://youkin06.github.io/portfolio/)
+
+---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
