@@ -24,8 +24,4 @@
 * 📧 **Email:** [yopi.games.tokyo@gmail.com](mailto:yopi.games.tokyo@gmail.com)
 * 🎨 **Portfolio:** [Check It Out](https://youkin06.github.io/portfolio/)
 
----
-<img src="./example/light.svg" width="260"/>
-<img src="./example/dark.svg" width="260"/>
-
 
