@@ -15,19 +15,6 @@
   <img src="https://img.shields.io/badge/-Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" />
 </p>
 
-<br>
-
-<p align="center">
-  <a href="https://github.com/youkin06">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=youkin06&show_icons=true&theme=tokyonight&count_private=true" alt="Stats" height="150" />
-  </a>
-  <a href="https://github.com/youkin06">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youkin06&layout=compact&theme=tokyonight&hide=html,css,jupyter%20notebook&langs_count=6" alt="Languages" height="150" />
-  </a>
-</p>
-
-<br>
-
 <h3>📫 Connect with Me</h3>
 <p>
   <a href="https://twitter.com/youkinCom">
