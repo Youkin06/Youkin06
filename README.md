@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Hi,+I'm+Yohei+Yaoi;Game+Developer+(Unity%2FC%23);Keio+Univ.+Student+(SFC)" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Hi,+I'm+Yohei+Yaoi;Game+Developer+(Unity%2FC%23);I+am+Yohei+Yaoi" alt="Typing SVG" />
 
 <p>
   <strong>Create / Code / Play</strong><br>
