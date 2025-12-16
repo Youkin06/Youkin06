@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=30&duration=3000&pause=1000&color=FFFFFF&background=00000000&width=450&lines=Hi,+I'm+Yohei+Yaoi;Game+Developer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=30&duration=3000&pause=1000&color=007ACC&background=00000000&width=450&lines=Hi,+I'm+Yohei+Yaoi;Game+Developer)
 
 ### 🛠️ Tech Stack
 
@@ -6,7 +6,7 @@
 
 ### 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Youkin06&layout=compact&bg_color=transparent&text_color=ffffff&title_color=ffffff&icon_color=ffffff&hide_border=true&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Youkin06&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
 
 ### 📫 Connect with Me
 
