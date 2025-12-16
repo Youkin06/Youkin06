@@ -12,19 +12,25 @@
 
 <br><br>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youkin06&layout=compact&theme=transparent&text_color=ffffff&hide_border=true&langs_count=6" alt="Top Languages" />
+</a>
+
+<br><br>
+
 <h3>📫 Connect with Me</h3>
 
 <p>
   <a href="https://twitter.com/youkinCom">
-    <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="Twitter" />
+    <img src="https://skillicons.dev/icons?i=twitter" height="45" alt="Twitter" />
   </a>
   &nbsp;
   <a href="https://youkin06.github.io/portfolio/">
-    <img src="https://skillicons.dev/icons?i=github" height="40" alt="Portfolio" />
+    <img src="https://skillicons.dev/icons?i=github" height="45" alt="Portfolio" />
   </a>
   &nbsp;
   <a href="mailto:yopi.games.tokyo@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Email" />
   </a>
 </p>
 
