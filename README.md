@@ -1,11 +1,13 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Hi,+I'm+Yohei+Yaoi;Please+call+me+Youkin!;Game+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=30&duration=3000&pause=1000&color=2980B9&center=true&vCenter=true&width=450&lines=Hi,+I'm+Yohei+Yaoi;Please+call+me+Youkin!;Game+Developer" alt="Typing SVG" />
+
+<br>
 
 <h3>🛠️ Tech Stack</h3>
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cs,unity,py,git,js,java,blender&perline=7" />
+  <img src="https://skillicons.dev/icons?i=cs,unity,py,git,js,java,blender,figma,notion&perline=9" />
 </a>
 
 <br><br>
