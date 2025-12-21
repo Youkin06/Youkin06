@@ -2,7 +2,7 @@
 
 ### 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=cs,unity,cpp,py,git,js,java,blender,figma,discord&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,unity,cpp,py,git,js,java,blender,figma,discord,notion&perline=12)](https://skillicons.dev)
 
 ### 📊 GitHub Stats
 
