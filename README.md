@@ -6,7 +6,7 @@
 
 ### 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Youkin06&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Youkin06&theme=tokyonight)
 
 ### 📫 Connect with Me
 
