@@ -1,8 +1,12 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=30&duration=3000&pause=1000&color=F79600FF&background=00000000&width=450&lines=Hi,+I'm+Yohei+Yaoi;Game+Developer)
+### 🤟 About me
+大学：慶應義塾大学  
+所属：Life is Tech!、Iwaken Lab.、中西泰人研究会  
+目標：「異分野技術を掛け合わせた遊びの発明で、次世代の遊び場となるゲームを創る」  
 
-### 🛠️ Tech Stack
+### 🔗 Links
+X(Twitter) : https://x.com/youkin06  
+Portfolio  : https://youkin06.github.io/portfolio/  
+Qiita      : https://qiita.com/youkin06
 
-[![My Skills](https://skillicons.dev/icons?i=cs,unity,cpp,py,git,js,java,blender,figma,discord,notion&perline=12)](https://skillicons.dev)
-### 📫 Connect with Me
-
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/youkinCom) [![Portfolio](https://img.shields.io/badge/Portfolio-WebSite-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://youkin06.github.io/portfolio/) [![Email](https://skillicons.dev/icons?i=gmail)](mailto:yopi.games.tokyo@gmail.com)
+### 🛠 Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=unity,cs,blender,git,py,c,cpp,notion,discord,figma)](https://skillicons.dev)
